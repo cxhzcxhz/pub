@@ -17,4 +17,4 @@ aaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbb
 ccccccccccccccccccccc
 add dev fenzhi
-merge
+merge master   dev
